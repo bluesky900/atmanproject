@@ -7,9 +7,14 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite1</sprite>
+    <sprite>sprites\BgTempCloud2</sprite>
+    <sprite>sprites\BgTempCloud1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BgTest1</background>
+    <background>background\BgTempGround1</background>
+    <background>background\BgTempSky</background>
+    <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
   <help>
