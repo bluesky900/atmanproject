@@ -17,6 +17,9 @@
     <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
+  <rooms name="rooms">
+    <room>rooms\TestEnv1</room>
+  </rooms>
   <help>
     <rtf>help.rtf</rtf>
   </help>
