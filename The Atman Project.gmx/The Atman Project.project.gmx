@@ -9,6 +9,7 @@
     <sprite>sprites\sprite1</sprite>
     <sprite>sprites\BgTempCloud2</sprite>
     <sprite>sprites\BgTempCloud1</sprite>
+    <sprite>sprites\FGTempWall1</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\BgTest1</background>
@@ -17,6 +18,10 @@
     <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\obj_player</object>
+    <object>objects\obj_testwall</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
