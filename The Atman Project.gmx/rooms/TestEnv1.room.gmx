@@ -3,8 +3,8 @@
   <caption></caption>
   <width>1024</width>
   <height>768</height>
-  <vsnap>32</vsnap>
-  <hsnap>32</hsnap>
+  <vsnap>16</vsnap>
+  <hsnap>16</hsnap>
   <isometric>0</isometric>
   <speed>30</speed>
   <persistent>0</persistent>
@@ -52,57 +52,22 @@
   </views>
   <instances/>
   <tiles>
-    <tile bgName="BgTempGround1" x="0" y="704" w="64" h="64" xo="0" yo="0" id="10000011" name="inst_074ED3EC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="64" y="704" w="64" h="64" xo="0" yo="0" id="10000012" name="inst_1BB3D58E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="128" y="704" w="64" h="64" xo="0" yo="0" id="10000013" name="inst_CD6B7213" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="192" y="704" w="64" h="64" xo="0" yo="0" id="10000014" name="inst_25DEF56A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="320" y="704" w="64" h="64" xo="0" yo="0" id="10000016" name="inst_6AF9A8C3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="384" y="704" w="64" h="64" xo="0" yo="0" id="10000017" name="inst_413592E5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="448" y="704" w="64" h="64" xo="0" yo="0" id="10000018" name="inst_BCA56CE5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="512" y="704" w="64" h="64" xo="0" yo="0" id="10000019" name="inst_0A89D273" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="576" y="704" w="64" h="64" xo="0" yo="0" id="10000020" name="inst_D66BEBA0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="640" y="704" w="64" h="64" xo="0" yo="0" id="10000021" name="inst_495C9CCD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="704" y="704" w="64" h="64" xo="0" yo="0" id="10000022" name="inst_1F72F034" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="768" y="704" w="64" h="64" xo="0" yo="0" id="10000023" name="inst_9442BF23" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="832" y="704" w="64" h="64" xo="0" yo="0" id="10000024" name="inst_1B09F9BD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="896" y="704" w="64" h="64" xo="0" yo="0" id="10000025" name="inst_BC3F31DC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="960" y="704" w="64" h="64" xo="0" yo="0" id="10000026" name="inst_46E3D110" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="0" y="672" w="64" h="64" xo="0" yo="0" id="10000027" name="inst_0D40CBDF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="64" y="672" w="64" h="64" xo="0" yo="0" id="10000028" name="inst_15C1ED2D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="128" y="672" w="64" h="64" xo="0" yo="0" id="10000029" name="inst_5E600E9C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="192" y="672" w="64" h="64" xo="0" yo="0" id="10000031" name="inst_1E439AD7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="320" y="672" w="64" h="64" xo="0" yo="0" id="10000032" name="inst_DFBC4E00" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="384" y="672" w="64" h="64" xo="0" yo="0" id="10000033" name="inst_A6AC7362" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="288" y="672" w="64" h="64" xo="0" yo="0" id="10000034" name="inst_B02BC5FD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="256" y="704" w="64" h="64" xo="0" yo="0" id="10000035" name="inst_003539EF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="256" y="672" w="64" h="64" xo="0" yo="0" id="10000036" name="inst_67A03AA6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="480" y="672" w="64" h="64" xo="0" yo="0" id="10000037" name="inst_D3581056" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="448" y="672" w="64" h="64" xo="0" yo="0" id="10000038" name="inst_0D64B0D7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="544" y="672" w="64" h="64" xo="0" yo="0" id="10000039" name="inst_7BCCBBDE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="608" y="672" w="64" h="64" xo="0" yo="0" id="10000040" name="inst_3E718F96" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="672" y="672" w="64" h="64" xo="0" yo="0" id="10000041" name="inst_0A68F9DE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="736" y="672" w="64" h="64" xo="0" yo="0" id="10000042" name="inst_59C0E983" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="800" y="672" w="64" h="64" xo="0" yo="0" id="10000043" name="inst_2B5053B4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="864" y="672" w="64" h="64" xo="0" yo="0" id="10000044" name="inst_EE3E857B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="960" y="672" w="64" h="64" xo="0" yo="0" id="10000046" name="inst_61287F0F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="928" y="672" w="64" h="64" xo="0" yo="0" id="10000047" name="inst_38453267" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="0" y="640" w="64" h="64" xo="0" yo="0" id="10000048" name="inst_6AD618A8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="64" y="640" w="64" h="64" xo="0" yo="0" id="10000049" name="inst_F3D46925" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="128" y="640" w="64" h="64" xo="0" yo="0" id="10000050" name="inst_79BC863E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="192" y="640" w="64" h="64" xo="0" yo="0" id="10000051" name="inst_99FD96CB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="256" y="640" w="64" h="64" xo="0" yo="0" id="10000052" name="inst_2876082C" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="320" y="640" w="64" h="64" xo="0" yo="0" id="10000053" name="inst_B10A21DD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="384" y="640" w="64" h="64" xo="0" yo="0" id="10000054" name="inst_20ADA396" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="448" y="640" w="64" h="64" xo="0" yo="0" id="10000055" name="inst_B30978A4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="512" y="640" w="64" h="64" xo="0" yo="0" id="10000056" name="inst_8173F407" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="576" y="640" w="64" h="64" xo="0" yo="0" id="10000057" name="inst_5AAD5EBF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="672" y="640" w="64" h="64" xo="0" yo="0" id="10000058" name="inst_243FE40F" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="640" y="640" w="64" h="64" xo="0" yo="0" id="10000059" name="inst_02F33BC2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="736" y="640" w="64" h="64" xo="0" yo="0" id="10000060" name="inst_36BFF0C1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="800" y="640" w="64" h="64" xo="0" yo="0" id="10000061" name="inst_C6AD5770" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="864" y="640" w="64" h="64" xo="0" yo="0" id="10000062" name="inst_5FC49119" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="960" y="640" w="64" h="64" xo="0" yo="0" id="10000064" name="inst_4D2586EF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
-    <tile bgName="BgTempGround1" x="928" y="640" w="64" h="64" xo="0" yo="0" id="10000065" name="inst_47844000" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="0" y="704" w="64" h="64" xo="0" yo="0" id="10000023" name="inst_7D5F18BF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="64" y="704" w="64" h="64" xo="0" yo="0" id="10000024" name="inst_341F6C1B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="128" y="704" w="64" h="64" xo="0" yo="0" id="10000025" name="inst_8B6EB7AF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="192" y="704" w="64" h="64" xo="0" yo="0" id="10000026" name="inst_AC172EC6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="256" y="704" w="64" h="64" xo="0" yo="0" id="10000027" name="inst_1DA63D0A" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="320" y="704" w="64" h="64" xo="0" yo="0" id="10000028" name="inst_EC2801A4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="384" y="704" w="64" h="64" xo="0" yo="0" id="10000029" name="inst_2C6B7367" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="448" y="704" w="64" h="64" xo="0" yo="0" id="10000030" name="inst_896C255E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="512" y="704" w="64" h="64" xo="0" yo="0" id="10000031" name="inst_6B2BD51B" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="576" y="704" w="64" h="64" xo="0" yo="0" id="10000032" name="inst_24F8D2F8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="640" y="704" w="64" h="64" xo="0" yo="0" id="10000033" name="inst_AC6E0F11" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="704" y="704" w="64" h="64" xo="0" yo="0" id="10000034" name="inst_EEB1CF7D" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="768" y="704" w="64" h="64" xo="0" yo="0" id="10000035" name="inst_B0C80C04" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="832" y="704" w="64" h="64" xo="0" yo="0" id="10000036" name="inst_F5AF0504" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="896" y="704" w="64" h="64" xo="0" yo="0" id="10000038" name="inst_2B02F318" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="BgTempGround1" x="960" y="704" w="64" h="64" xo="0" yo="0" id="10000039" name="inst_0704180E" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
   <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>

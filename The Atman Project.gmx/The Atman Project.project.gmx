@@ -18,16 +18,13 @@
     <background>background\background3</background>
   </backgrounds>
   <paths name="paths"/>
-<<<<<<< HEAD
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_testwall</object>
   </objects>
-=======
   <rooms name="rooms">
     <room>rooms\TestEnv1</room>
   </rooms>
->>>>>>> origin/master
   <help>
     <rtf>help.rtf</rtf>
   </help>
